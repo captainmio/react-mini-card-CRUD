@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.badge-quantity {
+  background-color: #f4f4f4 !important;
+  color: #000 !important;
+}
+
+.productLabel {
+  font-size: 14px;
+  color: #676565;
+  margin-bottom: 3px;
+}
+
+.fruit-item {
+  padding: 20px;
+  border: solid 2px #f4f4f4;
+}
+
+.product-listings {
+  min-height: 200px;
+  text-align: center;
+}
